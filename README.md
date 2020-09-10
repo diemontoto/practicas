@@ -1,2 +1,2 @@
 # PracticasProfesionalizantes2020
- Tecnica2
+ https://diemontoto.github.io/Tecnica2-PP2020/
