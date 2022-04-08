@@ -1,2 +1,2 @@
-# PracticasProfesionalizantes2021
- https://diemontoto.github.io/Tecnica2-PP2021/
+# PracticasProfesionalizantes2022
+ https://diemontoto.github.io/practicas
